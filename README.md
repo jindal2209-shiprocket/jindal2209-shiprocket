@@ -8,6 +8,8 @@
 
 <br />
 
+My Stats <a href="https://www.github.com/jindal2209" target="_blank"> Personal Repo </a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.cplusplus.com/" target="_blank"> <img
